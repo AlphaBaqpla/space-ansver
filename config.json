@@ -1,0 +1,12 @@
+{
+    "token": "",
+
+    "ansAuthor":"Ticket Detected!",
+    "ansText":"Open a ticket in clientarea!",
+
+    "btnURL":"https://clientarea.space-hosting.net/submitticket.php",
+    "btnLabel":"Open a Ticket",
+
+    "thumbImage": "https://media.discordapp.net/attachments/997250822436049046/1063938208490065950/LOGO.png",
+    "thumbText": "SpaceHosting"
+}
